@@ -1,0 +1,6 @@
+∀x (M(x) ⊃ N(x))
+∀x(∃y(P(x,y)∧Q(y))∨¬R(x))
+∀x(¬S(f(h(x))))
+T(f(x))∨U(x)
+∀z (P(z) ∧ (f(z) = g(z)))
+∀a ∀b ((a = b) ⊃ V(a))

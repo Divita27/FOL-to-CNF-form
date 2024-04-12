@@ -1,4 +1,3 @@
-∀x (M(x) ⊃ N(x))
-∀x(∃y(P(x,y)∧Q(y))∨¬R(x))
-∃y¬S(y)
-T(f(x))∨U(x)
+(G(John)∧∀x(P(x)⊃G(John)))∨(∃y(P(y)∧G(John)))
+∀x(J(x, Pop))
+F(Pop)=C
