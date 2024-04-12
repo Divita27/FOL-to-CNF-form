@@ -1,1 +1,4 @@
-∀x (p(x) ⊃ q(x))
+∀x (M(x) ⊃ N(x))
+∀x(∃y(P(x,y)∧Q(y))∨¬R(x))
+∃y¬S(y)
+T(f(x))∨U(x)
