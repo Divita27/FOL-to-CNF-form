@@ -1,0 +1,7 @@
+∀x((S(x) ∧ W(x)) ⊃ E(x))
+∀x((W(x) ∧ P(x)) ⊃ SP(x)) 
+∀x(R(x) ⊃ ¬SP(x))
+∀x(R(x) ⊃ We(x))
+∀x(W(x))
+∀x(R(x))
+∀x(S(x))
