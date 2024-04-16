@@ -1,0 +1,6 @@
+likes(Alice, Math) ∧ likes(Alice, stories)
+∀x(likes(x, Math) ⊃ likes(x, Algebra))
+∀x((likes(x, Algebra) ∧ likes(x, Physics)) ⊃ goesTo(x, College))
+¬likes(Alice, stories) ∨ likes(Alice, Physics)
+¬likes(Alice, Chemistry) ∧ ¬likes(Alice, History)
+∃y(girl(y) ∧ ∀x(boy(x) ⊃ likes(x, y)) ∨ ∃x∃z(boy(x) ∧ girl(z) ∧ loves(x,z)))
